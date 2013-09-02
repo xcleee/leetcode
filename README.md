@@ -1,3 +1,3 @@
 leetcode
 ========
-This is a source code back-up which is a solution of problem from leetcode.com
+This is a source code back-up which is solutions of some problem from leetcode.com
