@@ -111,7 +111,7 @@ int main()
     vector<int>().swap(num);
 
     cout << "test case 4" << endl;
-    int test4[] = {1,2,2};
+    int test4[] = {1,2,2,3,3,3};
     for (int i = 0; i < sizeof(test4)/sizeof(test4[0]); i++)
         num.push_back(test4[i]);
 
