@@ -1,3 +1,6 @@
+/*
+ * leetcode 18
+ */
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
