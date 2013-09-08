@@ -4,6 +4,7 @@
 #include <string.h>
 #include <assert.h>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 void dfs(int p, int curSum, int target, vector<int>& n, vector<int> path, vector<vector<int> >& result)
