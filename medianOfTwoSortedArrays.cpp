@@ -1,5 +1,5 @@
 /*
- * leetcode 4
+ * leetcode OJ Median of Two Sorted Array 
  */
 #include <iostream>
 #include <stdlib.h>

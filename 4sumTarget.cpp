@@ -1,5 +1,5 @@
 /*
- * leetcode 18
+ * leetcode OJ 4Sum
  */
 #include <iostream>
 #include <stdlib.h>

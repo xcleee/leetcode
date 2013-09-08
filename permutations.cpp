@@ -1,5 +1,5 @@
 /*
- * leet code 46,47
+ * leetcode OJ Permutations, Permutations II
  */
 
 #include <iostream>

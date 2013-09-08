@@ -1,5 +1,5 @@
 /*
- * leet code 11
+ * leet code 3Sum
  */
 #include <iostream>
 #include <stdlib.h>
