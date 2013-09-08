@@ -1,3 +1,6 @@
+/*
+ * Leetcode OJ Longest Substring Without Repeating Characters
+ */
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -6,6 +9,7 @@
 #include <string>
 using namespace std;
 
+/* this function return the substring it self rather than just the string length */
 string longestUnrepeatedString(const string& s)
 {
     int i = 0;// point to the begin of string
