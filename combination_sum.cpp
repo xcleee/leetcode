@@ -32,6 +32,7 @@ vector<vector<int> > combinationSum(vector<int>& n, int target)
 {
     vector<vector<int> > result;
     vector<int> path;
+    sort(n.begin(), n.end());
     dfs(0, 0, target, n, path, result);
     return result;
 }
